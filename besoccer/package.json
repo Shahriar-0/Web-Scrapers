@@ -1,0 +1,15 @@
+{
+  "name": "js_reading_besoccer_data",
+  "version": "1.0.0",
+  "description": "This repo gathers data from [besoccer](https://www.besoccer.com) and store them in csv file. Then create a random weeks stats for a single season. This is for APS02, assignment 7, university of tehran.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "playwright": "^1.35.1"
+  }
+}
